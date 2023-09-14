@@ -31,5 +31,3 @@ Nos tomamos la privacidad muy en serio. Esta aplicación **no graba ni almacena 
 Esta aplicación está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
-
-Espero que esta versión mejorada de tu README sea de ayuda. He añadido emojis y secciones adicionales para hacerlo más atractivo y fácil de leer.
