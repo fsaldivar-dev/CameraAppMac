@@ -31,3 +31,8 @@ Nos tomamos la privacidad muy en serio. Esta aplicación **no graba ni almacena 
 Esta aplicación está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
+
+
+---
+
+> *El conocimiento se pudre cuando se guarda. Se mantiene vivo cuando se comparte.* — [Manifiesto](./MANIFESTO.md)
